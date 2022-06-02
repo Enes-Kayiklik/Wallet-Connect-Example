@@ -1,7 +1,7 @@
 ## Android Wallet Connect Example
 Connect Crypto Wallet to Android App using Wallet Connect and Jetpack Compose UI Toolkit
 
-Read writed (article)[https://yoorbit.medium.com/how-to-get-wallet-address-using-walletconnect-on-android-cdffda84cda1]
+Read writed [article](https://yoorbit.medium.com/how-to-get-wallet-address-using-walletconnect-on-android-cdffda84cda1)
 ## Libraries 📚
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android
   development.
